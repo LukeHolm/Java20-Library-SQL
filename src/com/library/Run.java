@@ -15,7 +15,7 @@ public class Run {
     private static boolean exitProgram;
     private static boolean exitLoop;
     //#region password
-    private static final String password = "Flowright_0525";
+    private static final String password = "";
     //endregion
 
 
